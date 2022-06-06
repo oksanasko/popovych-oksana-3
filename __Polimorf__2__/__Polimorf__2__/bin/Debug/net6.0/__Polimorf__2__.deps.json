@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "__Polimorf__2__/1.0.0": {
+        "runtime": {
+          "__Polimorf__2__.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "__Polimorf__2__/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

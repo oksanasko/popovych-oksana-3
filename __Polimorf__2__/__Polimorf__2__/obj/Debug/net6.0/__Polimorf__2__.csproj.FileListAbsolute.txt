@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\__Polimorf__2__.exe
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\__Polimorf__2__.deps.json
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\__Polimorf__2__.runtimeconfig.json
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\__Polimorf__2__.dll
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\ref\__Polimorf__2__.dll
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\bin\Debug\net6.0\__Polimorf__2__.pdb
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.AssemblyInfo.cs
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.dll
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\ref\__Polimorf__2__.dll
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.pdb
+C:\Users\User\source\repos\__Polimorf__2__\__Polimorf__2__\obj\Debug\net6.0\__Polimorf__2__.genruntimeconfig.cache
