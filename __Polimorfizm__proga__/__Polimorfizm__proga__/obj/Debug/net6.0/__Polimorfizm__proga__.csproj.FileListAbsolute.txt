@@ -1,0 +1,15 @@
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\__Polimorfizm__proga__.exe
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\__Polimorfizm__proga__.deps.json
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\__Polimorfizm__proga__.runtimeconfig.json
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\__Polimorfizm__proga__.dll
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\ref\__Polimorfizm__proga__.dll
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\bin\Debug\net6.0\__Polimorfizm__proga__.pdb
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.AssemblyInfo.cs
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.dll
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\ref\__Polimorfizm__proga__.dll
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.pdb
+C:\Users\User\source\repos\__Polimorfizm__proga__\__Polimorfizm__proga__\obj\Debug\net6.0\__Polimorfizm__proga__.genruntimeconfig.cache
